@@ -1,3 +1,2 @@
 Dbms
 DSA
-Maths
